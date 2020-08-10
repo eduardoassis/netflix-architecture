@@ -1,0 +1,2 @@
+insert into exchange_value(id, from_value, to_value, conversion_factor) values (1001, 'USD', 'Brazilian Real', 5.57);
+insert into exchange_value(id, from_value, to_value, conversion_factor) values (1002, 'EUR', 'Brazilian Real', 6.07);

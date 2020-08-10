@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: netflix-zuul-api-gateway-service
+server:
+  port: 8765
